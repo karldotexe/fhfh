@@ -1,0 +1,75 @@
+D:\kelvin files\source\repos\ulitboi\ulitboi\bin\Debug\ulitboi.exe.config
+D:\kelvin files\source\repos\ulitboi\ulitboi\bin\Debug\ulitboi.exe
+D:\kelvin files\source\repos\ulitboi\ulitboi\bin\Debug\ulitboi.pdb
+D:\kelvin files\source\repos\ulitboi\ulitboi\bin\Debug\Guna.UI.dll
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.csproj.AssemblyReference.cache
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.login.resources
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.Properties.Resources.resources
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.csproj.GenerateResource.cache
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.csproj.CoreCompileInputs.cache
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.csproj.CopyComplete
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.exe
+D:\kelvin files\source\repos\ulitboi\ulitboi\obj\Debug\ulitboi.pdb
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\bin\Debug\ulitboi.exe.config
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\bin\Debug\ulitboi.exe
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\bin\Debug\ulitboi.pdb
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.login.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Properties.Resources.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.csproj.CopyComplete
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.exe
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.pdb
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form2.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form3.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form4.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form5.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form6.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form7.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form8.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form10.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form11.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form12.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form13.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form14.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form15.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form16.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form17.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form18.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form19.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form20.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form21.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form22.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form23.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form24.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form25.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form26.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form27.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form28.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form29.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form30.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form31.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form32.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form33.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form34.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form35.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form36.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form37.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form38.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form39.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form40.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form41.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form42.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form43.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form44.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form45.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form46.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form47.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form48.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form49.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form50.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form51.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form52.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form53.resources
+C:\Users\Lenovo\Documents\UCC\PROGRAMMING\Ambag\ulitn-main\ulitn-main\ulitboi\obj\Debug\ulitboi.Form9.resources
